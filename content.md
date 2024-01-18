@@ -1,4 +1,4 @@
-# Our own classes: level up
+# Ben's debugging lesson for classes level up
 
 ## Initializers
 
